@@ -22,7 +22,7 @@ MIT
 If you use this code, please cite:
 
 ```bibtex
-@article{sierraporta2026cmcurvature,
+@article{sierraporta2026CRcurvature,
   author  = {Sierra-Porta, D.},
   title   = {Probing cosmic ray dynamics and Forbush decrease detection through local network curvature of visibility graphs},
   year    = {2026},
